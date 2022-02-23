@@ -39,6 +39,9 @@
         font-family: "Work Sans" , sans-serif;
         text-transform: capitalize;
     }
+    html{
+        scroll-behavior:smooth;
+    }
 /* End Global Rules */
 
 /* Start header */
